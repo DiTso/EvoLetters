@@ -1,0 +1,21 @@
+{
+  "name": "sazanof/evo-letters",
+  "description": "Module and snippet for send letters to subscribers",
+  "keywords":["modx","evolution cms","evo"],
+  "type":"library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "twig/twig": "^2.0"
+  },
+  "authors": [
+    {
+      "name": "Mikhail Sazanov",
+      "email": "sazanof.ru@yandex.ru"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/sazanof/MODxLetter/issues",
+    "wiki": "https://github.com/sazanof/MODxLetters"
+  }
+}
